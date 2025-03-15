@@ -1,6 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
 ## NAME:KOMALAVARSHINI.S
-## REF NO.:24900909
+## REF NO.:212224230133
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
